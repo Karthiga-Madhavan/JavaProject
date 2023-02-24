@@ -198,7 +198,7 @@ public class Program02 {
 					System.out.println("Thank you for the visit!!!");
 				}					
 			}
-			
+			x.close();			
 		}
 	}
 
