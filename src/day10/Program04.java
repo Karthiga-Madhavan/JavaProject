@@ -14,7 +14,7 @@ public class Program04 {
 			System.out.println(a+"    "+temp);
 			a=a+1;
 		}
-		
+		System.out.println();
 		System.out.println("----Do- While Program----");
 		int b=1;
 		temp=1;
@@ -24,7 +24,7 @@ public class Program04 {
 			System.out.println(b+"    "+temp);
 			b=b+1;
 		}while(b<=n);
-		
+		System.out.println();
 		System.out.println("----For Program----");
 		temp=1;
 		for(int c=1;c<=n;c=c+1)
