@@ -4,6 +4,7 @@ public class Program05 {
 
 	public static void main(String[] args) {
 		/*
+		
 		1
 		22
 		333
@@ -28,6 +29,8 @@ public class Program05 {
 		System.out.println();
 		
 		}
+		System.out.println();
+		System.out.println();
 		
 		for(int i=5;i>=1;i--)
 		{
@@ -36,10 +39,7 @@ public class Program05 {
 			System.out.print(i);
 		}
 		System.out.println();
-		
 		}
-		
-		
 	}
 
 }

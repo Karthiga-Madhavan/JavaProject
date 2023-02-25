@@ -3,8 +3,7 @@ package day11;
 public class Program02 {
 
 	public static void main(String[] args) {
-		/*
-		 1
+		/*  incorrect way to get the format, use nested loop as in Program03		 1
 		 12
 		 123
 		 1234
