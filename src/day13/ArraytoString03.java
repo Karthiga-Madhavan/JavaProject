@@ -12,7 +12,11 @@ public class ArraytoString03{
 		System.out.println(Arrays.toString(x));
 		
 		System.out.println("Copy Function");
-		
+		// don't use as int[]y=x; it will use the same memory location. 
+		// So, both variable values will get assigned with the same new value instead of a specific variable
+		int[] y1=x;
+		System.out.println(x);
+		System.out.println(y1);
 		int[] y=Arrays.copyOf(x, x.length);
 		System.out.println(Arrays.toString(x));
 		System.out.println(Arrays.toString(y));
