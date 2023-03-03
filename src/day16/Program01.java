@@ -6,6 +6,9 @@ import java.util.HashSet;
 public class Program01 {
 
 	public static void main(String[] args) {
+		
+		//Set Theory - Intersection, Union, DifferenceOf
+		
 		HashSet<Integer> x= new HashSet<>();
 		x.addAll(Arrays.asList(1,2,3,4));
 		System.out.println(x);
