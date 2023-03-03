@@ -4,7 +4,11 @@ import java.util.HashMap;
 import java.util.Map.Entry;
 
 public class Program02 {
-
+	
+	//HashMap with Key and Values. Values can be same but keys cannot.
+	//HashMap saves Values in Ascending order (Sequence order)
+	//HashMap allows null key and null value
+	
 	public static void main(String[] args) {
 		HashMap<String,Integer> x= new HashMap<>();
 		x.put("aa", 101);
@@ -12,6 +16,9 @@ public class Program02 {
 		x.put("cc", 103);
 		x.put("dd", 104);
 		x.put("ee", 105);
+		x.put(null, 105);
+		x.put("ff", null);
+		
 		System.out.println(x);
 		
 		System.out.println(x.keySet());
