@@ -7,6 +7,8 @@ public class Program02 {
 
 	public static void main(String[] args) {
 	
+		// Functions of HashSet
+		
 		HashSet<Integer> x= new HashSet<>();
 		x.add(10);
 		x.add(30);
