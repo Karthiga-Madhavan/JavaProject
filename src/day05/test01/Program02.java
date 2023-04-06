@@ -4,7 +4,7 @@ public class Program02 {
 	
 	public void add(int a, int b) {
 		
-		System.out.println(a+b);
+		System.out.println(a+b);   // for method overriding in program03
 	}
 
 }
