@@ -3,7 +3,7 @@ package day03;
 public class Program01 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// calling Methods
 		cal(30,20);
 		System.out.println("--------------");
 		cal(50,50);

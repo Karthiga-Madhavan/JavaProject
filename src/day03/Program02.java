@@ -3,7 +3,7 @@ package day03;
 public class Program02 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Satic and Non-Static Methods (Create objects to call the function)
 		Program02 obj1= new Program02();
 		addMethod(20,30);
 		obj1.subMethod(10, 5);
