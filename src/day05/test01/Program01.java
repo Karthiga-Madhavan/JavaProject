@@ -3,8 +3,8 @@ package day05.test01;
 public class Program01 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		add(20,30);
+		// Method overloading, by changing datatypes or by adding parameters 
+		add(30,20);
 		add(1.5, 2.5);
 		add(20,30,10);
 	}
