@@ -3,7 +3,7 @@ package day10;
 public class Program03 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// generating tables using all loop methods
 		int table=2;
 		int a=1;
 		while (a<=10)

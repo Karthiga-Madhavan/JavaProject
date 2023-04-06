@@ -3,7 +3,7 @@ package day10;
 public class Program01 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// do-while loop
 		int a=1;
 		do
 		{

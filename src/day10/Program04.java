@@ -3,7 +3,7 @@ package day10;
 public class Program04 {
 
 	public static void main(String[] args) {
-		// factorial
+		// factorial using all loop methods
 		int n=10;
 		System.out.println("----While Program----");
 		int a=1;
