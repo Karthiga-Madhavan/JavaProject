@@ -5,7 +5,9 @@ import java.util.Scanner;
 public class Program01 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
+		// Passing values using java Scanner class
+		// + - * /(Q)  %(R) Numbers
 
 		Scanner x=new Scanner(System.in);
 		System.out.println("Enter the Int value of a: ");
@@ -15,6 +17,8 @@ public class Program01 {
 		System.out.println("Enter the Int value of c: ");
 		double c=x.nextDouble();
 		x.close();
+		// int () int--->int
+		//int () double/float---> double/float
 		
 		System.out.println(a+b);
 		System.out.println(a+c);

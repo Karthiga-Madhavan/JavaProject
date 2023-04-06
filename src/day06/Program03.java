@@ -3,7 +3,8 @@ package day06;
 public class Program03 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Logical Operators
+		// && || !
 		int a=30;
 		int b=20;
 		double c=10;
