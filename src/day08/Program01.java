@@ -3,7 +3,7 @@ package day08;
 public class Program01 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// if-else ladder (Comparison of three numbers)
 		int a=10000;
 		int b=100;
 		int c=1000;
