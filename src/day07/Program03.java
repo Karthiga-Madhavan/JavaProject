@@ -3,7 +3,7 @@ package day07;
 import java.util.Scanner;
 
 	public class Program03 {
-
+		//even or odd using if-else
 		public static void main(String[] args) {
 			Scanner x= new Scanner(System.in);
 			System.out.println("Enter the Number:-  ");
