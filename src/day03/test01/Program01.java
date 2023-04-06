@@ -2,6 +2,7 @@ package day03.test01;
 
 public class Program01 {
 	
+	// Extend in Program02
 	public void addMethod(int a,int b)
 	{
 		System.out.println(a+b);
