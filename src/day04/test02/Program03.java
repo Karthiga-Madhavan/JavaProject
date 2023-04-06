@@ -1,9 +1,11 @@
 package day04.test02;
 
-import day04.test01.Program01;
+// 	import day04.test01.*; 		to import all classes
+import day04.test01.Program01;     // import class from otherpackage
 
 public class Program03 extends Program01{
 
+	// Default Methods are accessible only with the same class package.
 	public static void main(String[] args) {
 		addMethod(30, 20);
 		//subMethod(50, 25); //Private Method-not visible
