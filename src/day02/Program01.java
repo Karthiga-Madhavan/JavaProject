@@ -1,6 +1,8 @@
 package day02; // pakage name must starts with LC, can have UC after the firstletter, Ex: day02A
 
-public class Program01 { // class name starts with UC
+public class Program01 { 
+	
+	// class name starts with UC
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
