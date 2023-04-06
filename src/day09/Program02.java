@@ -6,7 +6,7 @@ import java.lang.String;
 public class Program02 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// My Task of Mobile Shopping given on day08
 		int mBrand;
 		int mColor;
 		int mAvail;

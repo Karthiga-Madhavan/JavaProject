@@ -4,7 +4,8 @@ public class Program01 {
 
 	public static void main(String[] args) {
 		System.out.println("Start Program..!");
-		//1-5
+		// while loop 
+		// 1-5
 		int a=1;
 		while(a<=5)//1<=5 2<=5 3<=5 4<=5 5<=5
 		{
@@ -24,11 +25,7 @@ public class Program01 {
 		{
 			System.out.println("@@@@@@");
 			c=c-1;
-		}
-		
-		
-		
-		
+		}		
 		System.out.println("End Program..!");
 
 	}
