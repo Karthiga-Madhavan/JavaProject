@@ -9,6 +9,7 @@ public class Array01 {
 		x[4]=500;
 		x[2]=300;
 		
+		System.out.println(x); //prints the memory location
 		System.out.println("length of x is "+x.length);		
 		
 		System.out.println(x[0]);
