@@ -14,13 +14,13 @@ public class Program01 {
 		x.add(40);//3
 		System.out.println(x);
 		System.out.println(x.get(2));
-		x.add(10);//4
+		x.add(10);//4 
 		x.add(30);//5
 		x.add(20);//6
 		x.add(40);//7
 		System.out.println(x);
 		
-		x.remove(7);
+		x.remove(3);
 		System.out.println(x);
 		x.remove(6);
 		System.out.println(x);

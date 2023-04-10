@@ -13,7 +13,7 @@ public class Program02 {
 		x.add(10);
 		x.add(30);
 		x.add(20);
-		x.add(40);
+		x.add(40); 
 		System.out.println(x);
 	
 		x.add(10);
