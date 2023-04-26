@@ -47,7 +47,7 @@ public class Program01 {
 		Integer[] a1= {10,20,40};
 		System.out.println(x.containsAll(Arrays.asList(a1)));//true
 		
-		Integer[] a2= {10,20,30,40};
+		Integer[] a2= {10,20};
 		System.out.println(x.containsAll(Arrays.asList(a2)));//false
 		
 		System.out.println(x);

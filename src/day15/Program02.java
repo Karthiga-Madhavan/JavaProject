@@ -8,7 +8,7 @@ public class Program02 {
 	public static void main(String[] args) {
 	
 		// Functions of HashSet
-		
+		int[] x1= {40,50,60};	
 		HashSet<Integer> x= new HashSet<>();
 		x.add(10);
 		x.add(30);
@@ -26,7 +26,7 @@ public class Program02 {
 		x.remove(10);
 		System.out.println(x);
 		
-			
+		
 		Integer[] y= {30,50,60,10,70,90,80,30};
 		x.addAll(Arrays.asList(y));
 		System.out.println(x);
